@@ -23,32 +23,30 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Project Documentation" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
-			<Item Name="Documentation Images" Type="Folder">
-				<Property Name="NI.SortType" Type="Int">0</Property>
-				<Item Name="loc_access_task_data.png" Type="Document" URL="../../PMSM-VDQ-JSON-File-Converter2/documentation/loc_access_task_data.png"/>
-				<Item Name="loc_bundle_new_button_ref.png" Type="Document" URL="../../PMSM-VDQ-JSON-File-Converter2/documentation/loc_bundle_new_button_ref.png"/>
-				<Item Name="loc_convert_variant.png" Type="Document" URL="../../PMSM-VDQ-JSON-File-Converter2/documentation/loc_convert_variant.png"/>
-				<Item Name="loc_create_two_queues.png" Type="Document" URL="../../PMSM-VDQ-JSON-File-Converter2/documentation/loc_create_two_queues.png"/>
-				<Item Name="loc_disable_new_button.png" Type="Document" URL="../../PMSM-VDQ-JSON-File-Converter2/documentation/loc_disable_new_button.png"/>
-				<Item Name="loc_enqueue_generic_message.png" Type="Document" URL="../../PMSM-VDQ-JSON-File-Converter2/documentation/loc_enqueue_generic_message.png"/>
-				<Item Name="loc_enqueue_message_with_data.png" Type="Document" URL="../../PMSM-VDQ-JSON-File-Converter2/documentation/loc_enqueue_message_with_data.png"/>
-				<Item Name="loc_enqueue_priority_message.png" Type="Document" URL="../../PMSM-VDQ-JSON-File-Converter2/documentation/loc_enqueue_priority_message.png"/>
-				<Item Name="loc_exit_message.png" Type="Document" URL="../../PMSM-VDQ-JSON-File-Converter2/documentation/loc_exit_message.png"/>
-				<Item Name="loc_message_queue_wire.png" Type="Document" URL="../../PMSM-VDQ-JSON-File-Converter2/documentation/loc_message_queue_wire.png"/>
-				<Item Name="loc_new_message_diagram.png" Type="Document" URL="../../PMSM-VDQ-JSON-File-Converter2/documentation/loc_new_message_diagram.png"/>
-				<Item Name="loc_new_task_loop.png" Type="Document" URL="../../PMSM-VDQ-JSON-File-Converter2/documentation/loc_new_task_loop.png"/>
-				<Item Name="loc_new_task_typedef.png" Type="Document" URL="../../PMSM-VDQ-JSON-File-Converter2/documentation/loc_new_task_typedef.png"/>
-				<Item Name="loc_open_msg_queue_typedef.png" Type="Document" URL="../../PMSM-VDQ-JSON-File-Converter2/documentation/loc_open_msg_queue_typedef.png"/>
-				<Item Name="loc_qmh_ignore_errors.png" Type="Document" URL="../../PMSM-VDQ-JSON-File-Converter2/documentation/loc_qmh_ignore_errors.png"/>
-				<Item Name="loc_queued_message_handler.gif" Type="Document" URL="../../PMSM-VDQ-JSON-File-Converter2/documentation/loc_queued_message_handler.gif"/>
-				<Item Name="loc_stop_new_mhl.png" Type="Document" URL="../../PMSM-VDQ-JSON-File-Converter2/documentation/loc_stop_new_mhl.png"/>
-				<Item Name="loc_stop_task.png" Type="Document" URL="../../PMSM-VDQ-JSON-File-Converter2/documentation/loc_stop_task.png"/>
-				<Item Name="loc_ui_data.png" Type="Document" URL="../../PMSM-VDQ-JSON-File-Converter2/documentation/loc_ui_data.png"/>
-				<Item Name="loc_value_change_event.png" Type="Document" URL="../../PMSM-VDQ-JSON-File-Converter2/documentation/loc_value_change_event.png"/>
-				<Item Name="noloc_note.png" Type="Document" URL="../../PMSM-VDQ-JSON-File-Converter2/documentation/noloc_note.png"/>
-				<Item Name="noloc_tip.png" Type="Document" URL="../../PMSM-VDQ-JSON-File-Converter2/documentation/noloc_tip.png"/>
-			</Item>
-			<Item Name="Queued Message Handler Documentation.html" Type="Document" URL="../../PMSM-VDQ-JSON-File-Converter2/documentation/Queued Message Handler Documentation.html"/>
+			<Item Name="loc_access_task_data.png" Type="Document" URL="../documentation/loc_access_task_data.png"/>
+			<Item Name="loc_bundle_new_button_ref.png" Type="Document" URL="../documentation/loc_bundle_new_button_ref.png"/>
+			<Item Name="loc_convert_variant.png" Type="Document" URL="../documentation/loc_convert_variant.png"/>
+			<Item Name="loc_create_two_queues.png" Type="Document" URL="../documentation/loc_create_two_queues.png"/>
+			<Item Name="loc_disable_new_button.png" Type="Document" URL="../documentation/loc_disable_new_button.png"/>
+			<Item Name="loc_enqueue_generic_message.png" Type="Document" URL="../documentation/loc_enqueue_generic_message.png"/>
+			<Item Name="loc_enqueue_message_with_data.png" Type="Document" URL="../documentation/loc_enqueue_message_with_data.png"/>
+			<Item Name="loc_enqueue_priority_message.png" Type="Document" URL="../documentation/loc_enqueue_priority_message.png"/>
+			<Item Name="loc_exit_message.png" Type="Document" URL="../documentation/loc_exit_message.png"/>
+			<Item Name="loc_message_queue_wire.png" Type="Document" URL="../documentation/loc_message_queue_wire.png"/>
+			<Item Name="loc_new_message_diagram.png" Type="Document" URL="../documentation/loc_new_message_diagram.png"/>
+			<Item Name="loc_new_task_loop.png" Type="Document" URL="../documentation/loc_new_task_loop.png"/>
+			<Item Name="loc_new_task_typedef.png" Type="Document" URL="../documentation/loc_new_task_typedef.png"/>
+			<Item Name="loc_open_msg_queue_typedef.png" Type="Document" URL="../documentation/loc_open_msg_queue_typedef.png"/>
+			<Item Name="loc_qmh_ignore_errors.png" Type="Document" URL="../documentation/loc_qmh_ignore_errors.png"/>
+			<Item Name="loc_queued_message_handler.gif" Type="Document" URL="../documentation/loc_queued_message_handler.gif"/>
+			<Item Name="loc_stop_new_mhl.png" Type="Document" URL="../documentation/loc_stop_new_mhl.png"/>
+			<Item Name="loc_stop_task.png" Type="Document" URL="../documentation/loc_stop_task.png"/>
+			<Item Name="loc_ui_data.png" Type="Document" URL="../documentation/loc_ui_data.png"/>
+			<Item Name="loc_value_change_event.png" Type="Document" URL="../documentation/loc_value_change_event.png"/>
+			<Item Name="noloc_note.png" Type="Document" URL="../documentation/noloc_note.png"/>
+			<Item Name="noloc_tip.png" Type="Document" URL="../documentation/noloc_tip.png"/>
+			<Item Name="Queued Message Handler Documentation.html" Type="Document" URL="../documentation/Queued Message Handler Documentation.html"/>
+			<Item Name="PMSM_json_tool.ico" Type="Document" URL="../documentation/PMSM_json_tool.ico"/>
 		</Item>
 		<Item Name="Support VIs" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
@@ -73,7 +71,6 @@
 			<Item Name="Sort Current in Ascending Order.vi" Type="VI" URL="../subVIs/Sort Current in Ascending Order.vi"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-		<Item Name="PMSM_json_tool.ico" Type="Document" URL="../documentation/PMSM_json_tool.ico"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
@@ -130,7 +127,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{9236DFC5-A1BE-45C5-93F4-A12737594CB8}</Property>
-				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.build" Type="Int">2</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">PMSM VDQ JSON Formatter.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/Main Application/PMSM VDQ JSON Formatter.exe</Property>
@@ -139,7 +136,7 @@
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/Main Application/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/PMSM_json_tool.ico</Property>
+				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/Project Documentation/PMSM_json_tool.ico</Property>
 				<Property Name="Source[0].itemID" Type="Str">{21674F6C-DE60-4BD7-A1E7-C09A6442E0A6}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
@@ -162,8 +159,8 @@
 				<Property Name="Destination[0].type" Type="Str">userFolder</Property>
 				<Property Name="DestinationCount" Type="Int">1</Property>
 				<Property Name="DistPart[0].flavorID" Type="Str">DefaultFull</Property>
-				<Property Name="DistPart[0].productID" Type="Str">{7CB485F0-10A2-4E7C-9BC5-DDAF6C6F2EE5}</Property>
-				<Property Name="DistPart[0].productName" Type="Str">NI LabVIEW Runtime 2019 SP1 f4</Property>
+				<Property Name="DistPart[0].productID" Type="Str">{2BB15880-EA12-40AA-B577-27419E77E2F9}</Property>
+				<Property Name="DistPart[0].productName" Type="Str">NI LabVIEW Runtime 2019 SP1 f5</Property>
 				<Property Name="DistPart[0].SoftDep[0].exclude" Type="Bool">false</Property>
 				<Property Name="DistPart[0].SoftDep[0].productName" Type="Str">NI ActiveX Container</Property>
 				<Property Name="DistPart[0].SoftDep[0].upgradeCode" Type="Str">{1038A887-23E1-4289-B0BD-0C4B83C6BA21}</Property>
@@ -211,9 +208,9 @@
 				<Property Name="INST_defaultDir" Type="Str">{78834AA2-2EBD-44D1-B4F4-077AE9B8390F}</Property>
 				<Property Name="INST_installerName" Type="Str">install.exe</Property>
 				<Property Name="INST_productName" Type="Str">VDQ JSON File Converter</Property>
-				<Property Name="INST_productVersion" Type="Str">1.0.3</Property>
+				<Property Name="INST_productVersion" Type="Str">1.0.4</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
-				<Property Name="InstSpecVersion" Type="Str">19018007</Property>
+				<Property Name="InstSpecVersion" Type="Str">19018009</Property>
 				<Property Name="MSI_arpCompany" Type="Str">Opal-RT</Property>
 				<Property Name="MSI_arpURL" Type="Str">http://www.opal-rt.com/</Property>
 				<Property Name="MSI_autoselectDrivers" Type="Bool">true</Property>
